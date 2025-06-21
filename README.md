@@ -1,12 +1,41 @@
-# Predicting Divorce
-Inform a possible approach to sorting the GDPR’s encroachment.
+## Predicting Divorce
+
+# Packages
+ Used packages in R:
+
+-library('readxl')
+-library('boot')
+-library('ggplot2')
+-library('caret')
+-library('dplyr')
+-library('tidyr')
+-#install.packages('ggthemes')
+-library(ggthemes)
+-library(gridExtra)
+-#install.packages('corrplot')
+-library('corrplot')
+-library('glmnet')
+-library('MASS')
+-library('boot')
+-library('class')
+-library('tree')
+-library('randomForest')
+-library('e1071')
+-#install.packages("ROSE")
+-library("ROSE")
+-library("readr")
+-library(partykit)     #Decision Tree
+
 
 # Project Objection
 
-The objective of this project is to investigate which specific phrases or statements from a standardized dataset are the most predictive indicators of potential divorce. Using interpretability-focused data mining techniques—including Fast and Frugal Trees, 
+The objective of this project is to investigate which specific phrases or statements from a standardized dataset are the most predictive indicators of potential divorce.
 
-LASSO (Least Absolute Shrinkage and Selection Operator), and One-R (One Rule algorithm)—the goal is to develop an informed and transparent model of decision-making. 
-This project aligns with broader academic debates around the GDPR’s call for explainable AI by exploring simplified yet powerful prediction tools, specifically drawing from the Fast and Frugal heuristics proposed by Gigerenzer and Thin Slices theory as discussed by Malcolm Gladwell.
+Using interpretability-focused data mining techniques—including Fast and Frugal Trees, LASSO (Least Absolute Shrinkage and Selection Operator), and One-R (One Rule algorithm)—the goal is to develop an informed and transparent model of decision-making. 
+
+This project aligns with broader academic debates around the GDPR’s call for explainable AI by exploring simplified yet powerful prediction tools, specifically drawing from the Fast and Frugal heuristics proposed by Gigerenzer and Thin Slices theory as 
+
+discussed by Malcolm Gladwell.
 
 Ultimately, the project aims to deliver both a quantitative analysis and a qualitative reflection on how minimalist predictive models can be effective—and perhaps even preferable—when addressing sensitive human topics like marriage stability and divorce.
 
