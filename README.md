@@ -81,3 +81,16 @@ Ultimately, the project aims to deliver both a quantitative analysis and a quali
 #This dataset could be used for predictive modeling to develop a model that can predict whether a couple is likely to divorce or not based on their responses to the questionnaire. Various machine learning algorithms, such as Naive Bayes, Decision Trees, and Random Forest, could be applied to create predictive models. Understanding the factors contributing to divorce prediction can have significant implications for relationship counseling and support services.
 
 #This dataset is a valuable resource for predictive modeling aimed at predicting whether a couple is likely to divorce based on their questionnaire responses. Machine learning algorithms, such as Naive Bayes, Decision Trees, and Random Forest could be employed to construct predictive models. Recognizing the factors contributing to divorce prediction has significant implications for relationship counseling and support services.
+
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-12-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-14-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-21-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-27-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-34-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-38-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-40-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-42-1.png)
+![Dashboard](https://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-6-1.png)
+![Dashboard](hhttps://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-7-1.png)
+![Dashboard](hhttps://github.com/atahirkoylu/PREDICTING-DIVORCE/blob/main/unnamed-chunk-8-1.png)
+
